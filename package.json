@@ -1,0 +1,27 @@
+{
+  "name": "Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "0.0.1-security",
+    "got": "^10.7.0",
+    "graphql": "^15.7.1",
+    "node-fetch": "^2.6.6",
+    "pretty": "^2.0.0",
+    "puppeteer": "^10.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "urql": "^2.0.5",
+    "xhr2": "^0.2.1"
+  }
+}
