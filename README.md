@@ -9,7 +9,7 @@ Installation:
 Instructions:
 1. Navigate to smash.gg
 2. In the bottom left, click on your profile and select developer settings
-3. Create a new token, then store this token somewhere safe
+3. Create a new token, then it somewhere safe
 4. Navigate to your tournament's settings page, select pools & seeding
 5. Copy the last number in the URL, this is your phaseId
 6. Open the extension, then paste your auth token and phaseId in the text boxes
