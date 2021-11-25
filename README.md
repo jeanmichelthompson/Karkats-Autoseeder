@@ -1,10 +1,14 @@
 # 
+
+Video Tutorial: https://www.youtube.com/watch?v=kPuhxV6PCSU&ab_channel=Karkat
+
 Installation: 
 1. Unpack the zip file to the directory of your choice
 2. Navigate to chrome://extensions/
-3. Click "load unpacked"
-4. Select the folder you extracted
-5. Pin the extension (optional)
+3. Click "developer mode"
+4. Click "load unpacked"
+5. Select the folder you extracted
+6. Pin the extension (optional)
 
 Instructions:
 1. Navigate to smash.gg
