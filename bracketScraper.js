@@ -106,7 +106,7 @@ function smashQuery(authorization, phaseId, playerData) {
     }
     // Sorting playerArray by rank
     console.log("Seeding players...")
-    playerArray.sort((a, b)=> {
+    playerArray = playerArray.sort((a, b)=> {
       return a.rank - b.rank;
     })
     // Adding removed players to playerArray
