@@ -76,7 +76,7 @@ function smashQuery(authorization, phaseId, playerData) {
     method: 'POST',
     // Assign auth token and specific query details
     headers: { 'content-type': 'application/x-www-form-urlencoded',"Authorization": "Bearer " + authorization},
-    data: {"query": "query GetPhaseSeeds($phaseId: ID!) {phase(id: $phaseId) {seeds(query: { page: 1, perPage: 60 }) {nodes {id seedNum entrant {id participants {id gamerTag}}}}}}",
+    data: {"query": "query GetPhaseSeeds($phaseId: ID!) {phase(id: $phaseId) {seeds(query: { page: 1, perPage: 300 }) {nodes {id seedNum entrant {id participants {id gamerTag}}}}}}",
       "variables":{
           "phaseId": phaseId,
       }
