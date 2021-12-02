@@ -19,6 +19,7 @@ Instructions:
 6. Right click the extension, click inspect popup. This will open the console and allow you to track seeding progress (optional)
 7. Open the extension, then paste your auth token and phaseId in the text boxes
 8. Click seed
+9. Give the process 10-20 seconds to complete, then refresh the page.
 
 Known issues:
 1. Closing out of the popup or inspecting the popup after clicking seed may halt the process.
