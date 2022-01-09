@@ -1,5 +1,7 @@
 # 
 
+**CURRENTLY OUTDATED**
+
 Video Tutorial: https://www.youtube.com/watch?v=kPuhxV6PCSU&ab_channel=Karkat
 
 Installation: 
